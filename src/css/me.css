@@ -1,0 +1,32 @@
+.me {
+    width: 100%;
+}
+.me__title {
+    font-family: Poppins;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.me__text {
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.me__btn {
+    border-radius: 80px;
+    width: 250px;
+    height: 55px;
+    background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    color: white;
+}

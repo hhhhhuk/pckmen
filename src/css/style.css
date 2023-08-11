@@ -1,1 +1,13 @@
 @import url(./header.css);
+@import url(me.css);
+@import url(info.css);
+
+* {
+    box-sizing: border-box;
+    background: #0F1624;
+    color: white;
+}
+
+.cont {
+    padding: 0 50px;
+}
