@@ -1,0 +1,51 @@
+.Tech {
+  width: 100%;
+}
+.Tech__title {
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.Tech__list {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.Tech__item {
+  width: 100%;
+}
+.BarT__text {
+  width: 70%;
+  justify-content: space-between;
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  display: flex;
+}
+.item__title {
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.item__barB {
+  box-shadow: 0 0 10px #000;
+  box-shadow: 0 0 10px #979797;
+  width: 70%;
+  height: 40px;
+  border-radius: 83px;
+  background: #162950;
+}
+.BarB__line {
+  height: 40px;
+  width: 20%;
+  border-radius: 83px;
+  background: linear-gradient(270deg, #13adc7 0%, #6978d1 66.67%, #945dd6 100%);
+}
