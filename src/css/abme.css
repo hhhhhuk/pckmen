@@ -1,0 +1,45 @@
+.abme {
+  width: 100%;
+}
+.abme__title {
+  font-family: Poppins;
+  font-size: 900;
+}
+.abme__block {
+  width: 100%;
+}
+.abme__line {
+  height: 10px;
+  background-color: white;
+  position: relative;
+  top: 110px;
+  z-index: 1;
+  box-shadow: 0 0 10px #ffffff;
+  border-radius: 10px;
+}
+.block__part {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.part__title {
+  font-family: Poppins;
+  font-size: 900;
+}
+.part__tochka {
+  position: relative;
+  z-index: 2;
+  width: 39px;
+  height: 39px;
+  border-radius: 15px;
+  background-color: rgb(185, 175, 175);
+  box-shadow: 0 0 10px #979797;
+}
+.part__text {
+  font-family: Poppins;
+  font-size: 900;
+  width: 25%;
+}

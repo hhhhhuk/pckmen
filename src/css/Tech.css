@@ -3,7 +3,7 @@
 }
 .Tech__title {
   font-family: Poppins;
-  font-size: 64px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
@@ -30,7 +30,7 @@
 }
 .item__title {
   font-family: Poppins;
-  font-size: 64px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
@@ -48,4 +48,16 @@
   width: 20%;
   border-radius: 83px;
   background: linear-gradient(270deg, #13adc7 0%, #6978d1 66.67%, #945dd6 100%);
+}
+
+.dop__title {
+  font-family: Poppins;
+  font-size: 600;
+}
+.dop__link {
+  columns: 3;
+}
+.link__li {
+  font-family: Poppins;
+  font-size: 600;
 }

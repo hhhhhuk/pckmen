@@ -2,6 +2,7 @@
 @import url(me.css);
 @import url(info.css);
 @import url(Tech.css);
+@import url(abme.css);
 
 * {
   box-sizing: border-box;
@@ -11,4 +12,10 @@
 
 .cont {
   padding: 0 50px;
+}
+
+@media (max-width: 500px) {
+  .cont {
+    padding: 0;
+  }
 }
